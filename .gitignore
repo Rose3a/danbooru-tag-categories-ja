@@ -1,2 +1,5 @@
 
 .gemini/antigravity/brain/*/scratch/
+
+__pycache__/
+*.py[cod]
